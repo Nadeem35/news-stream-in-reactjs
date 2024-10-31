@@ -7,8 +7,9 @@ function App() {
 
   return (
     <div>
-      <Navbar setcategory={setcategory} />
-      <Newboard category={category} />
+      {/* <Navbar setcategory={setcategory} /> */}
+      {/* <Newboard category={category} /> */}
+      <h1>d mns a dm</h1>
     </div>
   )
 }
